@@ -9,3 +9,4 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"https://github.com/Adrianalive/auth0.js/new/master?dependabot_template=1&filename=.github%2Fdependabot.yml
+u
